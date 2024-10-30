@@ -1,0 +1,16 @@
+.putler_connector_progressbar {
+    height: 22px;
+    border: 1px solid #2796b7;
+    background-color: #FFF;
+    text-align: center;
+    line-height: 20px;
+}
+
+.putler_connector_progressbar_label {
+    height: 100%;
+    color: #fff;
+    text-align: right;
+    line-height: 22px;
+    width: 0;
+    background-color: #278ab7;
+}
